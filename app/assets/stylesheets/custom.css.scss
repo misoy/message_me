@@ -13,3 +13,11 @@
 #message_submit_btn {
   display: none;
 }
+
+.ui {
+  &.vertical {
+    &.menu {
+      width: auto;
+    }
+  }
+}
