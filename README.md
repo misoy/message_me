@@ -1,6 +1,6 @@
 # MessageMe Chat App
 
-This is a MessageMe Chat Webb App using ActionCable and Web Sockets. This is developed on Ruby 3.0.0. 
+This is a MessageMe Chat Webb App using ActionCable and Web Sockets. This is developed on Rails 6.1.3. 
 Features and functionality:
 * Many users can sign up.
 * Users can receive realtime messages.
